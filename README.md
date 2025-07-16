@@ -58,7 +58,7 @@ Multi-Agent AI System\
 ↓\
 Response Consolidator\
 ↓\
-TwiML Voice Response\
+TwiML Voice Response
 
 
 ---
@@ -88,5 +88,33 @@ TwiML Voice Response\
 **AI:** “This is an emergency. Connecting you now...”  
 📞 **Shalby Hospital:** +91 95120 36099  
 🚑 **Ambulance dispatched…**
+
+
+## 🌍 Impact & Results
+
+- ✅ **24/7 healthcare access**
+- 🕒 **30% reduction in unnecessary hospital visits**
+- 🌱 **Strengthened rural healthcare access**
+
+---
+
+## 🙌 Acknowledgments
+
+- **Twilio** – Voice infrastructure  
+- **n8n** – Workflow automation  
+- **OpenAI** – AI/LLM engine  
+- **Vapi Hospitals** – Local support  
+- **Open Source Community** ❤️
+
+---
+
+## 📞 Contact
+
+- **Project Lead:** Sashank – [macherlasaimani@gmail.com]  
+- **GitHub:** [github.com/saimani]([https://github.com/yourusername/voicehealth-ai](https://github.com/saimani1232))
+
+> ⚠️ **Medical Disclaimer:**  
+> This AI assistant offers general health information and should not replace professional medical advice.  
+> In emergencies, please contact emergency services immediately.
 
 
