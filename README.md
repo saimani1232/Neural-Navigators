@@ -71,17 +71,22 @@ TwiML Voice Response
 
 ---
 
+## 💬 Usage Examples
 
-💬 Usage Examples
-🩺 Basic Consultation
-User: “I have a headache and mild fever”
-AI: “How long have you had these symptoms?”
-User: “Since yesterday”
-AI: “Sounds like a viral infection. Would you like to connect to a clinic nearby?”
+### 🩺 Basic Consultation
 
-🚨 Emergency Escalation
-User: “I'm having severe chest pain”
-AI: “This is an emergency. Connecting you now...
-📞 Shalby Hospital: +91 95120 36099
-🚑 Ambulance dispatched…”
+**User:** “I have a headache and mild fever”  
+**AI:** “How long have you had these symptoms?”  
+**User:** “Since yesterday”  
+**AI:** “Sounds like a viral infection. Would you like to connect to a clinic nearby?”
+
+---
+
+### 🚨 Emergency Escalation
+
+**User:** “I'm having severe chest pain”  
+**AI:** “This is an emergency. Connecting you now...”  
+📞 **Shalby Hospital:** +91 95120 36099  
+🚑 **Ambulance dispatched…**
+
 
