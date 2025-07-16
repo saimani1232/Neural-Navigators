@@ -102,8 +102,7 @@ TwiML Voice Response
 
 - **Twilio** – Voice infrastructure  
 - **n8n** – Workflow automation  
-- **OpenAI** – AI/LLM engine  
-- **Vapi Hospitals** – Local support  
+- **OpenAI** – AI/LLM engine   
 - **Open Source Community** ❤️
 
 ---
