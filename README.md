@@ -41,24 +41,24 @@ VoiceHealth AI bridges the gap between patients and healthcare providers in unde
 
 ## 🏗️ System Architecture  
 
-User Call (via Twilio)
-↓
-n8n Webhook Trigger
-↓
-Symptom Classifier (AI)
-↓
-Agent Router (Switch)
-↓
-Multi-Agent AI System
-├─ Greeting Agent
-├─ Emergency Agent
-├─ Symptom Analysis Agent
-├─ General Healthcare Agent
-└─ Conclusion Agent
-↓
-Response Consolidator
-↓
-TwiML Voice Response
+User Call (via Twilio)\
+↓\
+n8n Webhook Trigger\
+↓\
+Symptom Classifier (AI)\
+↓\
+Agent Router (Switch)\
+↓\
+Multi-Agent AI System\
+├─ Greeting Agent\
+├─ Emergency Agent\
+├─ Symptom Analysis Agent\
+├─ General Healthcare Agent\
+└─ Conclusion Agent\
+↓\
+Response Consolidator\
+↓\
+TwiML Voice Response\
 
 
 ---
